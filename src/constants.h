@@ -1,0 +1,8 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define TITLE_HEIGHT_PERCENTS 0.0
+
+#define PADDING_PERCENTS 0.5
+
+#endif // CONSTANTS_H
